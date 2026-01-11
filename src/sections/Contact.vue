@@ -10,7 +10,7 @@
 
             <div class="actions">
 
-                <a href="https://github.com/seugithub" target="_blank" class="btn outline">
+                <a href="http://wa.me/5545988397813" target="_blank" class="btn outline">
                     <img src="/icons/whatsapp-svgrepo-com.svg" alt="" class="iconContat">
                 </a>
 
