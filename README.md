@@ -5,7 +5,13 @@ Este projeto foi desenvolvido com foco em **design moderno**, **experiência do 
 
 Aqui você encontra meus principais projetos, tecnologias que utilizo e um pouco da minha evolução como desenvolvedor.
 
----
+Link para acessar portfolio:
+https://meu-portfolio-iota-lyart.vercel.app/
+
+
+<img width="1909" height="989" alt="PortfolioSite" src="https://github.com/user-attachments/assets/45c1cce5-1b2d-4368-9520-90b72a706f4d" />
+
+
 
 ## 🧑‍💻 Sobre mim
 
